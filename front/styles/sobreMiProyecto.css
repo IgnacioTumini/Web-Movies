@@ -1,0 +1,23 @@
+.section-sobreMi {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  color: white;
+  flex-direction: column;
+  text-align: center;
+}
+
+.container-sobre-mi {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  gap: 50px;
+  width: 100%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+p {
+  width: 80%;
+}
